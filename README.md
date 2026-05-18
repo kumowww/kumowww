@@ -34,8 +34,8 @@ I am actively looking for an **Ausbildungswechsel** or a long-term internship to
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumowww&show_icons=true&commits_year=2026&theme=dark" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumowww&langs_count=10&layout=compact&theme=dark" alt="Top Langs" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kumowww&langs_count=10&layout=compact&theme=dark" alt="Top Langs" width="48%" />
+  <img src="https://gh-stats.com/api/top-langs/?username=kumowww&langs_count=10&layout=compact&theme=dark" alt="Top Langs" width="48%" />
 </p>
 
 ## Education
