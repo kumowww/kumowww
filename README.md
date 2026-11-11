@@ -1,7 +1,7 @@
 
 ### Software Development & QA | Fachinformatiker für Anwendungsentwicklung  
 
-Junior Software Developer / QA Engineer, open to full-time roles in Berlin
+Software Developer / QA Engineer, open to full-time roles in Berlin
 
 ## Tech Stack & Skills
 
