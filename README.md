@@ -1,9 +1,7 @@
 
 ### Software Development & QA | Fachinformatiker für Anwendungsentwicklung  
 
-I am currently an Application Development trainee (Fachinformatiker für Anwendungsentwicklung) based in Berlin, Germany. I am passionate about software engineering, problem-solving, and ensuring code quality through manual and automated testing. 
-
-I am actively looking for an **Ausbildungswechsel** or a long-term internship to apply my skills in real-world, dynamic projects!
+Junior Software Developer / QA Engineer, open to full-time roles in Berlin
 
 ## Tech Stack & Skills
 
